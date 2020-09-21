@@ -11,7 +11,7 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/LeandroSantosGit/SistemaDeLogin?color=34cb70">
   </a>
 
-  <a href="https://github.com/LeandroSantosGit/Ecoleta/issues">
+  <a href="https://github.com/LeandroSantosGit/SistemaDeLogin/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/LeandroSantosGit/SistemaDeLogin?color=34cb70">
   </a>
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=34cb70">
@@ -26,9 +26,8 @@
   <a href="#-mailbox_with_mail"> :mailbox_with_mail: Entrar em Contato</a>
 </p>
 
-
 <h1 align="center">
-    <img alt="SistemaDeLogin" title="#SistemaDeLogin" src=".github/sistemaLogin.JPG" width="250px" />
+    <img alt="SistemaDeLogin" title="#SistemaDeLogin" src=".github/sistemaLogin.JPG" width="500px" />
 </h1>
 
 ## 💻 Projeto
